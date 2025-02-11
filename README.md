@@ -6,7 +6,7 @@
 
 ## ▶ はじめに
 
-- [![このテンプレートを使う](https://user-images.githubusercontent.com/737888/185467681-e5fdb099-d99f-454b-8d9e-0760e5a6e588.png)](https://github.com/vrchat-community/template-package/generate) を押してください。
+- [![このテンプレートを使う](https://user-images.githubusercontent.com/737888/185467681-e5fdb099-d99f-454b-8d9e-0760e5a6e588.png)](https://github.com/EnonoYautanVRC/Blendshape-Copy-Extension/generate) を押してください。
   をクリックすると、このテンプレートをもとにした新しい GitHub プロジェクトが始まります。
   - 適切なリポジトリ名と説明を選びます。
   - 可視性を 'Public' に設定します。'Private'を選んで後で変更することもできます。
